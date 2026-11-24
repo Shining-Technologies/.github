@@ -47,9 +47,14 @@ Inspection and field reporting for teams that document real-world work. Photogra
 
 ## Open source
 
+[**shining-ui-kit-pro**](https://github.com/Shining-Technologies/shining-ui-kit-pro) (MIT): [`@shining-technologies/ui`](https://www.npmjs.com/package/@shining-technologies/ui) on npm. React components, a data table whose filtering also runs on the server, and shadcn-style CSS variable theming. [See the gallery](https://shining-technologies.github.io/shining-ui-kit-pro/)
+
+## Also public
+
+These repositories are public so they can run on GitHub Pages and Actions. They are not open source.
+
 | Repository | What it is |
 |---|---|
-| [shining-ui-kit-pro](https://github.com/Shining-Technologies/shining-ui-kit-pro) | `@shining-technologies/ui` on npm: React components, a data table whose filtering also runs on the server, and shadcn-style CSS variable theming. [Gallery](https://shining-technologies.github.io/shining-ui-kit-pro/) |
 | [the-hivez-design-system](https://github.com/Shining-Technologies/the-hivez-design-system) | The Hivez design system docs: foundations, components and page patterns, rendered from the real app. [Live site](https://shining-technologies.github.io/the-hivez-design-system/) |
 | [the-hivez-status](https://github.com/Shining-Technologies/the-hivez-status) | Dependency-free uptime monitor and status page for The Hivez, run on GitHub Actions and Pages |
 | [vistra-status](https://github.com/Shining-Technologies/vistra-status) | The same monitor and status page for Vistra |
